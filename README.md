@@ -14,7 +14,7 @@
 - 🔄 Stay consistent with learning and building
 
 🔗 My LeetCode Profile  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/aseem-jan?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/AseemJan/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/AseemJan?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/AseemJan/)
 
 ---
 
@@ -39,7 +39,7 @@
 
 - 🔗 LinkedIn: [linkedin.com/in/aseem-jan](https://linkedin.com/in/aseem-jan)
 - 💻 GitHub: [github.com/AseemJan](https://github.com/AseemJan)
-- 📘 LeetCode: [leetcode.com/aseem-jan](https://leetcode.com/u/AseemJan/)
+- 📘 LeetCode: [leetcode.com/u/AseemJan](https://leetcode.com/u/AseemJan)
 
 ---
 
