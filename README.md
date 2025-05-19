@@ -4,21 +4,17 @@
 ---
 
 🌱 I’m currently deepening my skills in:
-- Data Structures and Algorithms (LeetCode, GFG)
+- Data Structures and Algorithms
 - Competitive Programming (Codeforces & AtCoder)
 - Problem-solving strategies and writing clean, efficient code
 
 🎯 2025 Goals:
-- 🌟 Solve 300+ LeetCode problems
 - 💻 Improve my rating on Codeforces & AtCoder
 - ✍️ Reflect weekly on GitHub through commits and writeups
 - 🔄 Stay consistent with learning and building
 
-🔗 My LeetCode Progress  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/_goingForIt?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/_goingForIt/)
-
-📘 My Solution Repository  
-[![LeetCode Solutions](https://github-readme-stats.vercel.app/api/pin/?username=AseemJan&repo=leetcode-solutions)](https://github.com/AseemJan/leetcode-solutions)
+🔗 My LeetCode Profile  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/aseem-jan?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/AseemJan/)
 
 ---
 
@@ -43,8 +39,8 @@
 
 - 🔗 LinkedIn: [linkedin.com/in/aseem-jan](https://linkedin.com/in/aseem-jan)
 - 💻 GitHub: [github.com/AseemJan](https://github.com/AseemJan)
+- 📘 LeetCode: [leetcode.com/aseem-jan](https://leetcode.com/u/AseemJan/)
 
 ---
 
 <p align="center">🧠 Code. Reflect. Repeat.</p>
-    
