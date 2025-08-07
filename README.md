@@ -59,7 +59,7 @@
 
 ---
 
-![Snake animation](https://github.com/AseemJan/AseemJan/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://AseemJan.github.io/AseemJan/github-contribution-grid-snake.svg)
 
 
 
