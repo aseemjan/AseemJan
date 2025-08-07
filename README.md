@@ -44,4 +44,18 @@
 
 ---
 
+
+### 🐍 Watch my contributions get eaten by a snake
+
+![Snake animation](https://github.com/AseemJan/AseemJan/blob/output/github-contribution-grid-snake.svg)
+
+
+---
+
+### ✨ Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
+
 <p align="center">🧠 Code. Reflect. Repeat.</p>
