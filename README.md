@@ -57,5 +57,11 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
+---
+
+![Snake animation](https://github.com/AseemJan/AseemJan/blob/output/github-contribution-grid-snake.svg)
+
+
+
 
 <p align="center">🧠 Code. Reflect. Repeat.</p>
