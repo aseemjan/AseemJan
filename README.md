@@ -46,4 +46,4 @@
 
 ### 🐍 Watch my contributions get eaten by a snake
 
-![Snake animation](https://AseemJan.github.io/AseemJan/githu)
+![Snake animation](https://AseemJan.github.io/AseemJan/github)
