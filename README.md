@@ -61,8 +61,7 @@
 ### 📫 Connect with Me
 
 - 🔗 LinkedIn: [linkedin.com/in/aseem-jan](https://linkedin.com/in/aseem-jan)
-- 💻 GitHub: [github.com/AseemJan](https://github.com/AseemJan)
-- 📘 LeetCode: [leetcode.com/u/AseemJan](https://leetcode.com/u/AseemJan)
+- 📧 Email: [aseemjan7@gmail.com](mailto:aseemjan7@gmail.com)
 
 ---
 
