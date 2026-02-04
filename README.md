@@ -1,5 +1,5 @@
 <h1 align="center">Hello There 👋, I'm Aseem</h1>
-<h3 align="center">Software Developer | Backend & Problem-Solving Focus>
+<h3 align="center">Software Developer | Backend & Problem-Solving Focus</h3>
 
 ---
 
@@ -56,6 +56,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AseemJan&theme=radical" />
 </p>
 
+![Aseem's GitHub stats](https://github-readme-stats.vercel.app/api?username=AseemJan&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![GitHub Streak](https://streak-stats.demolab.com?user=AseemJan&theme=tokyonight)
 ---
 
 ### 📫 Connect with Me
