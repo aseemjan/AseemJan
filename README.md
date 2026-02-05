@@ -48,7 +48,8 @@
 </p>
 
 ---
-
+<!-- 
+Old Stats Commented for now as the server might be down
 ### 📊 GitHub Stats
 
 <p align="left">
@@ -56,8 +57,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AseemJan&theme=radical" />
 </p>
 
-![Aseem's GitHub stats](https://github-readme-stats.vercel.app/api?username=AseemJan&show_icons=true&theme=tokyonight&cache_seconds=1800)
-![GitHub Streak](https://streak-stats.demolab.com?user=AseemJan&theme=tokyonight)
+Temp Stats -->
+-->
+
+### 📊 GitHub Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AseemJan&theme=github-compact)
+
+
 ---
 
 ### 📫 Connect with Me
@@ -68,5 +74,4 @@
 ---
 
 ### 🐍 Watch my contributions get eaten by a snake
-
-![Snake animation](https://AseemJan.github.io/AseemJan/github)
+![Snake animation](https://raw.githubusercontent.com/AseemJan/AseemJan/output/github-contribution-grid-snake.svg)
