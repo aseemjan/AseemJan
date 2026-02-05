@@ -57,11 +57,11 @@ Old Stats Commented for now as the server might be down
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AseemJan&theme=radical" />
 </p>
 
-Temp Stats -->
+Temp Stats:
 -->
 
 ### 📊 GitHub Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AseemJan&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aseemjan&theme=github-compact)
 
 
 ---
@@ -74,4 +74,4 @@ Temp Stats -->
 ---
 
 ### 🐍 Watch my contributions get eaten by a snake
-![Snake animation](https://raw.githubusercontent.com/AseemJan/AseemJan/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/AseemJan/AseemJan/output/github-snake-dark.svg)
