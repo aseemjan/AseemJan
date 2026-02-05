@@ -64,15 +64,8 @@ Implemented a production-grade scheduler supporting delayed, recurring, and prio
 
 <sub>Java • Spring Boot • REST APIs • MySQL • Redis • Python • C++ • Git • Linux</sub>
 
-
 ---
 
-### 🧰 Tools & Dev Environment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
 <!-- 
 Old Stats Commented for now as the server might be down
 ### 📊 GitHub Stats
