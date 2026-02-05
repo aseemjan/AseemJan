@@ -74,4 +74,4 @@ Temp Stats:
 ---
 
 ### 🐍 Watch my contributions get eaten by a snake
-![Snake animation](https://raw.githubusercontent.com/AseemJan/AseemJan/output/github-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/AseemJan/AseemJan/output/github-snake.svg)
