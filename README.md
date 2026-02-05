@@ -33,7 +33,6 @@ Implemented a production-grade scheduler supporting delayed, recurring, and prio
 
 <sub><i>Status: Most goals completed / on track — moving forward with clearer direction.</i></sub>
 
----
 ### 🎯 2026 Focus Areas
 - 💡 Strengthen problem-solving depth through competitive programming (Codeforces, AtCoder) with emphasis on patterns, correctness, and efficiency  
 - 🧩 Improve backend and system fundamentals, including API design, data handling, and system design basics  
