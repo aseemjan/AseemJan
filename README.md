@@ -88,12 +88,6 @@ Temp Stats:
 
 ---
 
-### 🧊 Contribution Skyline
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aseemjan&theme=tokyonight)
-
----
-
 ### 📫 Connect with Me
 
 - 🔗 LinkedIn: [linkedin.com/in/aseem-jan](https://linkedin.com/in/aseem-jan)
