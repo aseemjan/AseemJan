@@ -10,6 +10,22 @@
 
 ---
 
+## 🚀 Featured Projects
+
+### 🔗 Distributed URL Shortener
+Java • Spring Boot • MySQL • Redis  
+Built a scalable URL shortening service with caching, collision handling, analytics, and REST APIs.
+
+### 🛡️ Malware Detection System
+Python • Machine Learning • Static Analysis  
+Developed an ML model to classify Windows PE files as malicious or benign using feature extraction.
+
+### ⚙️ Multi-Threaded Job Scheduler
+Java • Spring Boot • MySQL  
+Implemented a production-grade scheduler supporting delayed, recurring, and priority jobs with persistence.
+
+---
+
 ### 🎯 2025 Goals (Progress)
 - 💻 Improve my rating on Codeforces & AtCoder
 - ✍️ Reflect weekly on GitHub through commits and writeups
