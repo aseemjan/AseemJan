@@ -88,6 +88,12 @@ Temp Stats:
 
 ---
 
+### 🧊 Contribution Skyline
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aseemjan&theme=tokyonight)
+
+---
+
 ### 📫 Connect with Me
 
 - 🔗 LinkedIn: [linkedin.com/in/aseem-jan](https://linkedin.com/in/aseem-jan)
@@ -96,4 +102,10 @@ Temp Stats:
 ---
 
 ### 🐍 Watch my contributions get eaten by a snake
-![Snake animation](https://raw.githubusercontent.com/AseemJan/AseemJan/output/github-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AseemJan/AseemJan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AseemJan/AseemJan/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/AseemJan/AseemJan/output/github-snake.svg" />
+</picture>
+
