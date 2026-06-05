@@ -12,17 +12,21 @@
 
 ## 🚀 Featured Projects
 
+### 🏨 LakeSide Hotel App
+Java • Spring Boot • React • MySQL
+A full-stack hotel booking application featuring room reservations, room management, authentication, and RESTful APIs. Designed with Spring Boot backend services, MySQL persistence, and a responsive React frontend.
+
 ### 🔗 Distributed URL Shortener
 Java • Spring Boot • MySQL • Redis  
 Built a scalable URL shortening service with caching, collision handling, analytics, and REST APIs.
 
-### 🛡️ Malware Detection System
-Python • Machine Learning • Static Analysis  
-Developed an ML model to classify Windows PE files as malicious or benign using feature extraction.
-
 ### ⚙️ Multi-Threaded Job Scheduler
 Java • Spring Boot • MySQL  
 Implemented a production-grade scheduler supporting delayed, recurring, and priority jobs with persistence.
+
+### 🔗 Distributed URL Shortener
+Java • Spring Boot • MySQL • Redis
+Built a scalable URL shortening service with caching, collision handling, analytics, and REST APIs.
 
 ---
 
